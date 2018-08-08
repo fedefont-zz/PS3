@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 # Problem Set 3: Simulating robots
 # Name:
-# Collaborators (discussion):
+# Collaborators (discussion)
 # Time:
 
 import math
